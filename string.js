@@ -1,4 +1,3 @@
-let text = "hello world";
-let greet = "Rahim\" s Pen";
-console.log(text.length);
-console.log(greet);
+let text  = "Welcome to bangladesh";
+
+console.log(text.slice(-5, 0))
